@@ -1,0 +1,47 @@
+html {
+  background: #ccc;
+}
+
+body {
+  background: #f9f9f9;
+  border-bottom: 1px solid #7c7c7c;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0 0 100px 0;
+  padding: 0 0 75px 0;
+}
+
+.top-bar {
+  margin-bottom: 15px;
+}
+
+.content a {
+  text-decoration: underline;
+}
+
+.content img {
+  border: 0;
+  margin: 0 0 15px 0;
+  max-width: 100%;
+}
+  
+.content h1, h2, h3, h4, h5, h6, a {
+  color: #e60;
+}
+.content a:hover {
+  color: #f90;
+}
+
+.content p, li {
+  font-size: 13px;
+  line-height: 1.7em;
+}
+
+.content ul {
+  padding: 0 0 0 27px;
+}
+
+.content .team-member img {
+  float: left;
+  margin: 5px 25px 5px 5px;
+  width: 125px;
+}

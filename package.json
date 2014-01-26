@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "publisssh": "~0.2.3"
+  },
+  "scripts": {
+    "deploy": "jekyll build && publisssh _site www.volcrowe.org"
+  }
+}
