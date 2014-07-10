@@ -3,6 +3,6 @@
     "publisssh": "~0.2.3"
   },
   "scripts": {
-    "deploy": "jekyll build && publisssh _site www.volcrowe.org"
+    "deploy": "jekyll build && publisssh _site zooniverse-static/www.volcrowe.org"
   }
 }
